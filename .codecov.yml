@@ -6,6 +6,7 @@ codecov:
     # Note that currently Appveyor builds fail to upload
     after_n_builds: 8
     wait_for_ci: yes
+    #cambio para llevar a remoto
 
 coverage:
   precision: 2
